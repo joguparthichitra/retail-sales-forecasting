@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+train.csv
+test.csv
+store.csv
+.ipynb_checkpoints/
